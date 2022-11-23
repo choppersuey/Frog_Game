@@ -1,5 +1,3 @@
-# Frog_Game
-
 # Frog Game 🐸
 
 Jogo simples de ***Frog***, criado como parte do curso de lógica de programação e linguagem JavaScript da plataforma Alura.
