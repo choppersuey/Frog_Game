@@ -78,4 +78,4 @@ ___________
 
 Please inform in the email gustavo.vsac@gmail.com or in the issues section of the github repository.
 
-<a href="https://imgur.com/k0c5Byo"><img src="C:/Users/gusta/OneDrive/%C3%81rea%20de%20Trabalho/joguinho%20frog/Nova%20pasta/README.md/k0c5Byo.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/k0c5Byo"><img src="https://i.imgur.com/k0c5Byo.gif" title="source: imgur.com" /></a>
